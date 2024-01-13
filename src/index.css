@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  transition-duration: 0.3s;
+}
+
+body {
+  background-color: rgb(32, 32, 32);
+}
+
+.MuiPagination-root button {
+  color: #fff;
+  background-color: rgba(56, 195, 255, 0.521);
+  border-color: rgb(56, 189, 248);
+}
+.MuiPagination-root button:hover {
+  background-color: rgba(56, 191, 248, 0.884);
+}
+.MuiPaginationItem-root {
+  color: #fff !important;
+}
