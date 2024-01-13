@@ -1,10 +1,10 @@
 <h2 align="center">
-  Shiganime - Streaming Anime Subtitle English <br/>
+  Shiganime - Streaming Anime Subtitle Indonesia <br/>
 </h2>
 
 <img src='./public/demo.png'>
 
-This website using public api from <a href='https://github.com/riimuru/gogoanime-api'>Gogoanime-api</a>
+This website using public api from <a href='https://otakudesu-zeta.vercel.app/'>Riza-api</a>
 
 ## Built With
 
@@ -23,7 +23,7 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 
 ## 🛠 Installation and Setup Instructions
 
-1. Clone this repository `git clone https://github.com/radityaseptian/shiganime.git`
+1. Clone this repository `git clone https://github.com/ranimev2/shiganime.git`
 
 2. Installation: `npm install`
 
